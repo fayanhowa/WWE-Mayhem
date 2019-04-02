@@ -1,0 +1,21 @@
+{
+    "name": "wwe-mayhem-hack/wwe-mayhem-hack-get-unlimited-cash-free",
+    "description": "WWE Mayhem Hack Get Unlimited Cash Free Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK WWE Mayhem",
+            "homepage": "http://astuces.cf/WWE-Mayhem/",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
